@@ -7,20 +7,34 @@
 ###### #
 
 1.
+
 登入gitbook(建議用github帳號登入)
+
 在個人gitbook設定中連結github帳號(Install integration on this account)
+
 連結成功後 Integration 跟 Account 旁邊都會有綠色勾勾
 
+
 2.
+
 新建github組織(Organizations)
+
 建立完成後
+
 到
+
 https://github.com/settings/applications
+
 點gitbook
+
 底下有 Organization access
+
 選取你新建的github組織 
+
 點grant access
+
 組織名稱旁邊的紅叉叉會變成綠勾勾 就表示成功
+
 
 3.
 新建gitbook組織 (Organizations)
