@@ -31,23 +31,37 @@ https://github.com/settings/applications
 
 選取你新建的github組織 
 
-點grant access
+點(grant access)
 
 組織名稱旁邊的紅叉叉會變成綠勾勾 就表示成功
 
 
 3.
+
 新建gitbook組織 (Organizations)
+
 建立完成後
+
 到
+
 新書的設定中>github分頁裡>integration項目>選取github組織>安裝integration
+
 點(Install integration on this account)
 
+
 4.
+
 在github組織中新建一個新repo
+
 在gitbook組織中新建一本書
+
 在新書設定中的github分頁>選擇github組織的新repo
+
 點(sync)同步
+
 若出現的是紅叉叉就點左邊的(force sync using gitbook content) 
+
 之後gitbook新書的內容會複製到github新repo裡
+
+
 
