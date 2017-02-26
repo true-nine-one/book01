@@ -14,6 +14,8 @@
 
 連結成功後 Integration 跟 Account 旁邊都會有綠色勾勾
 
+![Imgur](http://i.imgur.com/K5iXjuw.jpg)
+
 
 2.
 
@@ -35,6 +37,8 @@ https://github.com/settings/applications
 
 組織名稱旁邊的紅叉叉會變成綠勾勾 就表示成功
 
+![Imgur](http://i.imgur.com/LNt4qEQ.jpg)
+
 
 3.
 
@@ -47,6 +51,8 @@ https://github.com/settings/applications
 新書的設定中>github分頁裡>integration項目>選取github組織>安裝integration
 
 點(Install integration on this account)
+
+![Imgur](http://i.imgur.com/nsHYQJV.jpg)
 
 
 4.
@@ -63,5 +69,10 @@ https://github.com/settings/applications
 
 之後gitbook新書的內容會複製到github新repo裡
 
+![Imgur](http://i.imgur.com/vtj3xlZ.jpg)
+
+
+
+###### #結束
 
 
